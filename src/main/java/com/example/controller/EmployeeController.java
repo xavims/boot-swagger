@@ -55,7 +55,7 @@ public class EmployeeController {
 		emp2.setName("emp2");
 		emp2.setDesignation("developer");
 		emp2.setEmpId("2");
-		emp2.setSalary(3000);
+		emp2.setSalary(1000);
 		tempEmployees.add(emp1);
 		tempEmployees.add(emp2);
 		return tempEmployees;
